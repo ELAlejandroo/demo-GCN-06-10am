@@ -5,7 +5,7 @@
 ## Descripción
 
 Este repositorio contiene una demo de un **Graph Convolutional Network (GCN)** implementado con PyTorch Geometric.  
-Utiliza el dataset de ejemplo _Karate Club_ (34 nodos, 2 comunidades) y ofrece una versión genérica que puede adaptarse a grafos más grandes (por ejemplo Cora).  
+Utiliza el dataset de ejemplo _Karate Club_ (34 nodos, 4 comunidades) y ofrece una versión genérica que puede adaptarse a grafos más grandes (por ejemplo Cora).  
 Incluye:
 
 - Visualización estática del grafo
