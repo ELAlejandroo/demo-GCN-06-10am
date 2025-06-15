@@ -1,0 +1,24 @@
+# Entorno de conda / venv
+/env/
+/venv/
+/.env/
+*.yml
+*.yaml
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de salida, vídeo y datos pesados
+*.mp4
+*.avi
+*.mov
+/data/
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Logs
+*.log
