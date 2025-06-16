@@ -34,8 +34,8 @@ Incluye:
 2. **Crear y activar el entorno con Conda**
 
    ```bash
-   conda create -n demo-gcn python=3.8 -y
-   conda activate demo-gcn
+   conda create -n demo-gcn-06-10am python=3.10 -y
+   conda activate demo-gcn-06-10am
    ```
 
 3. **Instalar dependencias**
