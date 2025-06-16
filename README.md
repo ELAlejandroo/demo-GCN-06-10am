@@ -41,7 +41,7 @@ Incluye:
 3. **Instalar dependencias**
 
    ```bash
-   conda install -c pytorch pytorch torchvision torchaudio
+   conda install -c pytorch pytorch -y
    conda install -c conda-forge torch-geometric networkx matplotlib ffmpeg
    ```
 
